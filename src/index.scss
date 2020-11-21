@@ -1,13 +1,57 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Krungthai", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+@font-face {
+  font-family: "Krungthai";
+  src: local("Krungthai"),
+    url(./fonts/Krungthai/Krungthai-Regular.ttf) format("truetype");
+}
+
+$primary: #27397c;
+$secondary: #6c757d;
+$green: #2dd253;
+$dark: #343a40;
+
+.container {
+  width: 100%;
+  padding: 0px 16px;
+  margin: 0;
+  font-family: "Krungthai", sans-serif;
+}
+
+@media screen and (min-width: 576px) {
+  .container {
+    max-width: 540px;
+    padding: 32px 16px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 768px;
+    padding: 32px 16px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .container {
+    max-width: 1199px;
+    padding: 32px 16px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .container {
+    max-width: 1240px;
+    padding: 32px 16px;
+  }
 }
