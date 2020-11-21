@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/hw-ywc/static/css/main.3215b93f.chunk.css",
-    "main.js": "/hw-ywc/static/js/main.62c0c4d8.chunk.js",
-    "main.js.map": "/hw-ywc/static/js/main.62c0c4d8.chunk.js.map",
-    "runtime-main.js": "/hw-ywc/static/js/runtime-main.0f30324e.js",
-    "runtime-main.js.map": "/hw-ywc/static/js/runtime-main.0f30324e.js.map",
+    "main.css": "/hw-ywc/static/css/main.b77c628b.chunk.css",
+    "main.js": "/hw-ywc/static/js/main.53474976.chunk.js",
+    "main.js.map": "/hw-ywc/static/js/main.53474976.chunk.js.map",
+    "runtime-main.js": "/hw-ywc/static/js/runtime-main.e676d77f.js",
+    "runtime-main.js.map": "/hw-ywc/static/js/runtime-main.e676d77f.js.map",
     "static/css/2.ea9b1cc9.chunk.css": "/hw-ywc/static/css/2.ea9b1cc9.chunk.css",
-    "static/js/2.1a851522.chunk.js": "/hw-ywc/static/js/2.1a851522.chunk.js",
-    "static/js/2.1a851522.chunk.js.map": "/hw-ywc/static/js/2.1a851522.chunk.js.map",
-    "static/js/3.259d6615.chunk.js": "/hw-ywc/static/js/3.259d6615.chunk.js",
-    "static/js/3.259d6615.chunk.js.map": "/hw-ywc/static/js/3.259d6615.chunk.js.map",
+    "static/js/2.fa47df19.chunk.js": "/hw-ywc/static/js/2.fa47df19.chunk.js",
+    "static/js/2.fa47df19.chunk.js.map": "/hw-ywc/static/js/2.fa47df19.chunk.js.map",
+    "static/js/3.0ed4c3e1.chunk.js": "/hw-ywc/static/js/3.0ed4c3e1.chunk.js",
+    "static/js/3.0ed4c3e1.chunk.js.map": "/hw-ywc/static/js/3.0ed4c3e1.chunk.js.map",
     "index.html": "/hw-ywc/index.html",
     "static/css/2.ea9b1cc9.chunk.css.map": "/hw-ywc/static/css/2.ea9b1cc9.chunk.css.map",
-    "static/css/main.3215b93f.chunk.css.map": "/hw-ywc/static/css/main.3215b93f.chunk.css.map",
-    "static/js/2.1a851522.chunk.js.LICENSE.txt": "/hw-ywc/static/js/2.1a851522.chunk.js.LICENSE.txt",
+    "static/css/main.b77c628b.chunk.css.map": "/hw-ywc/static/css/main.b77c628b.chunk.css.map",
+    "static/js/2.fa47df19.chunk.js.LICENSE.txt": "/hw-ywc/static/js/2.fa47df19.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/hw-ywc/static/media/Krungthai-Regular.3b311d57.ttf",
     "static/media/logo.34e98019.png": "/hw-ywc/static/media/logo.34e98019.png",
     "static/media/text-logo.bf8a3c98.png": "/hw-ywc/static/media/text-logo.bf8a3c98.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f30324e.js",
+    "static/js/runtime-main.e676d77f.js",
     "static/css/2.ea9b1cc9.chunk.css",
-    "static/js/2.1a851522.chunk.js",
-    "static/css/main.3215b93f.chunk.css",
-    "static/js/main.62c0c4d8.chunk.js"
+    "static/js/2.fa47df19.chunk.js",
+    "static/css/main.b77c628b.chunk.css",
+    "static/js/main.53474976.chunk.js"
   ]
 }
