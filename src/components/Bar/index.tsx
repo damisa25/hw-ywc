@@ -81,7 +81,7 @@ const Bar = () => {
             </Input.Group>
           </div>
           <div className="mobile">
-            <Input.Group style={{ width: "80%" }} compact>
+            <Input.Group style={{ width: "100%" }} compact>
               <Select
                 showSearch
                 style={{ width: "80%" }}

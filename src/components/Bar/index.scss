@@ -149,11 +149,11 @@
       border-bottom-left-radius: 7px !important;
     }
     .ant-select-selection-placeholder {
-      color: $dark;
-      margin-top: 3px;
-      align-items: center;
-      font-family: "Krungthai", sans-serif;
-      opacity: 100%;
+      color: $dark !important;
+      margin-top: 3px !important;
+      align-items: center !important;
+      font-family: "Krungthai", sans-serif !important;
+      opacity: 100% !important;
     }
   }
   .search-input {
